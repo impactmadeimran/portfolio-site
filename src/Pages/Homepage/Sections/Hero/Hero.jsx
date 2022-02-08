@@ -15,7 +15,9 @@ const Hero = () => {
         </motion.div>
       <div className='flex items-center justify-center'>
         {/* <input className='py-3 w-full md:col-span-2 rounded' type="text" /> */}
-        <button className='w-1/3 py-3 bg-indigo-600 rounded'>Get My Resume</button>
+        <form className='w-full' action='mailto:impactmadeimran@gmail.com' method='GET'>
+        <input type="submit" value = "Contact me" className='md:w-1/3 py-3 px-3 bg-indigo-600 rounded' />
+        </form>
       </div>
       </div>
   </div>

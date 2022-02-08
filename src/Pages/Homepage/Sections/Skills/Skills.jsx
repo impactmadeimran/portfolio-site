@@ -16,9 +16,7 @@ const Skills = () => {
                 <h1 className="uppercase">ReactJs</h1>
               </div>
               <span>
-                Nisl nisi scelerisque eu ultrices. Turpis egestas maecenas
-                pharetra convallis posuere morbi leo urna. Sit amet mauris
-                commodo.
+                Building and maintaining simple front-end responsive Javascript applications with Reactjs
               </span>
             </div>
           </div>
@@ -29,9 +27,7 @@ const Skills = () => {
                 <h1 className="uppercase">Tailwindcss</h1>
               </div>
               <span>
-                Nisl nisi scelerisque eu ultrices. Turpis egestas maecenas
-                pharetra convallis posuere morbi leo urna. Sit amet mauris
-                commodo.
+                Creating and designing responsive and mobile-first websites faster and better with Tailwindcss
               </span>
             </div>
           </div>
@@ -42,9 +38,7 @@ const Skills = () => {
                 <h1 className="uppercase">Javascript</h1>
               </div>
               <span>
-                Nisl nisi scelerisque eu ultrices. Turpis egestas maecenas
-                pharetra convallis posuere morbi leo urna. Sit amet mauris
-                commodo.
+               Opmitizing the behaviour and performance of web applications with Javascript and also allowing the incorporation of third party libraries
               </span>
             </div>
           </div>
@@ -54,12 +48,10 @@ const Skills = () => {
             <div className="flex flex-col gap-3">
               <div className="flex gap-2">
                 <CheckCircleIcon className="h-8 w-8" />
-                <h1 className="uppercase">Redux</h1>
+                <h1 className="uppercase">Redux </h1>
               </div>
               <span>
-                Nisl nisi scelerisque eu ultrices. Turpis egestas maecenas
-                pharetra convallis posuere morbi leo urna. Sit amet mauris
-                commodo.
+                Managing and centralization state of applications built with libraries such as React and other front-end libraries
               </span>
             </div>
           </div>
@@ -70,9 +62,7 @@ const Skills = () => {
                 <h1 className="uppercase">nodejs</h1>
               </div>
               <span>
-                Nisl nisi scelerisque eu ultrices. Turpis egestas maecenas
-                pharetra convallis posuere morbi leo urna. Sit amet mauris
-                commodo.
+                Building and structuring cross-platform back-end applications with Nodejs using Javascript
               </span>
             </div>
           </div>
@@ -83,9 +73,7 @@ const Skills = () => {
                 <h1 className="uppercase">sql</h1>
               </div>
               <span>
-                Nisl nisi scelerisque eu ultrices. Turpis egestas maecenas
-                pharetra convallis posuere morbi leo urna. Sit amet mauris
-                commodo.
+                Managing, querying, storing and performing operations on relational databases using SQL
               </span>
             </div>
           </div>
