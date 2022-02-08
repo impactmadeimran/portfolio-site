@@ -13,7 +13,7 @@ const Skills = () => {
             <div className="flex flex-col gap-3">
               <div className="flex gap-2">
                 <CheckCircleIcon className="h-8 w-8" />
-                <h1 className="uppercase">web design</h1>
+                <h1 className="uppercase">ReactJs</h1>
               </div>
               <span>
                 Nisl nisi scelerisque eu ultrices. Turpis egestas maecenas
@@ -26,7 +26,7 @@ const Skills = () => {
             <div className="flex flex-col gap-3">
               <div className="flex gap-2">
                 <CheckCircleIcon className="h-8 w-8" />
-                <h1 className="uppercase">web design</h1>
+                <h1 className="uppercase">Tailwindcss</h1>
               </div>
               <span>
                 Nisl nisi scelerisque eu ultrices. Turpis egestas maecenas
@@ -39,7 +39,7 @@ const Skills = () => {
             <div className="flex flex-col gap-3">
               <div className="flex gap-2">
                 <CheckCircleIcon className="h-8 w-8" />
-                <h1 className="uppercase">web design</h1>
+                <h1 className="uppercase">Javascript</h1>
               </div>
               <span>
                 Nisl nisi scelerisque eu ultrices. Turpis egestas maecenas
@@ -54,7 +54,7 @@ const Skills = () => {
             <div className="flex flex-col gap-3">
               <div className="flex gap-2">
                 <CheckCircleIcon className="h-8 w-8" />
-                <h1 className="uppercase">web design</h1>
+                <h1 className="uppercase">Redux</h1>
               </div>
               <span>
                 Nisl nisi scelerisque eu ultrices. Turpis egestas maecenas
@@ -67,7 +67,7 @@ const Skills = () => {
             <div className="flex flex-col gap-3">
               <div className="flex gap-2">
                 <CheckCircleIcon className="h-8 w-8" />
-                <h1 className="uppercase">web design</h1>
+                <h1 className="uppercase">nodejs</h1>
               </div>
               <span>
                 Nisl nisi scelerisque eu ultrices. Turpis egestas maecenas
@@ -80,7 +80,7 @@ const Skills = () => {
             <div className="flex flex-col gap-3">
               <div className="flex gap-2">
                 <CheckCircleIcon className="h-8 w-8" />
-                <h1 className="uppercase">web design</h1>
+                <h1 className="uppercase">sql</h1>
               </div>
               <span>
                 Nisl nisi scelerisque eu ultrices. Turpis egestas maecenas

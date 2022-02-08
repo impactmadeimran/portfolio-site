@@ -4,7 +4,7 @@ import Homepage from "./Pages/Homepage/Homepage";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App bg-gray-900 text-white">
       <Navbar />
       <Homepage />
       <Footer />

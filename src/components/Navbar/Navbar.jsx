@@ -2,10 +2,10 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div className="w-full bg-blue-900 text-white">
+    <div className="w-full text-white">
       <nav className="max-w-7xl flex justify-around py-6 mx-auto">
       <div className="w-full text-2xl">PORTFOLIO</div>
-      <span>Imran Yemoh</span>
+      <span className="w-3/12">Imran Yemoh</span>
         {/* <ul className="flex w-3/5 text-lg justify-around">
           <li>Home</li>
           <li>BLog</li>

@@ -2,7 +2,7 @@ import React from "react";
 
 const Resume = () => {
   return (
-    <div className="w-full bg-blue-900 text-white">
+    <div className="w-full text-white">
       <h1 className="text-center text-2xl uppercase pt-20 font-semibold">
         My Resume
       </h1>
