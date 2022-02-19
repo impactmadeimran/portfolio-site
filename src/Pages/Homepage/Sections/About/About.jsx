@@ -29,8 +29,20 @@ const About = () => {
           <div className="flex flex-col gap-5">
             <span className="text-2xl">Follow me</span>
             <div className="flex gap-8">
-              <img src={IG} alt="instagram" className="h-8 w-8" />
-              <img src={Twitter} alt="instagram" className="h-8 w-8" />
+              <a
+                href="https://www.instagram.com/imran_xxi/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img src={IG} alt="instagram" className="h-8 w-8" />
+              </a>
+              <a
+                href="https://twitter.com/imran_xxi"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <img src={Twitter} alt="twitter" className="h-8 w-8" />
+              </a>
             </div>
           </div>
         </div>
